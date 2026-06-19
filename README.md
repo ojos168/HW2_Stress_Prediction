@@ -16,7 +16,7 @@ Click the badge below to open and run the notebook in Google Colab:
 
 <table align="left">
   <td>
-    <a href="https://colab.research.google.com/github/ojos168/HW2_Stress_Prediction/blob/main/HW2_Stress_Prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/github/ojos168/HW2_Stress_Prediction/blob/main/HW2_Lisa_Li.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
 </table>
 <br><br>

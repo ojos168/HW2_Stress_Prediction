@@ -8,8 +8,8 @@
 This repository contains a Google Colab notebook evaluating a dataset for a potential data science project. The project explores algorithmic empathy, specifically, how to accurately quantify and predict psychological stress levels using unstructured natural language data from social media. 
 
 ## Dataset Information
-**Dataset Used:** Human Stress Prediction Dataset
-\n **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)
+* **Dataset Used:** Human Stress Prediction Dataset
+* **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)
 
 ## Open Notebook in Google Colab
 Click the badge below to open and run the notebook in Google Colab:

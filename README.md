@@ -1,4 +1,4 @@
-# HW2_Strees_Prediction
+# HW2_Stress_Prediction
 
 # Session 2 Homework: Dataset Evaluation Activity
 

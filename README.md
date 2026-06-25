@@ -14,7 +14,7 @@ The project explores Algorithmic Empathy—specifically, how to accurately quant
 
 ## Session 3 Updates: Exploratory Data Analysis (EDA)
 In this notebook, I performed feature engineering to extract text lengths (`word_count`) and conducted an EDA. 
-* **Key Finding:** Conducted a Welch's Two-Sample T-Test which revealed a statistically significant association showing that Reddit posts labeled as "stressed" are, on average, longer than non-stressed posts.
+* Key Finding: The statistical analysis indicated that users expressing stress on Reddit tended to write longer posts than users who were not expressing stress.
 
 ## Open Notebook in Google Colab
 Click the badge below to automatically open, run, and view the visualizations in Google Colab:
